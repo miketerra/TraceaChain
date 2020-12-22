@@ -1,5 +1,5 @@
 # Documentation README
-
+TraceaChain Documentaion
 
 
 ## Conventions
@@ -19,13 +19,6 @@ Notes: The above means we have a dependency on the github mirror
 repository. Relative links are unfortunately not working on github
 when browsing through a RST file.
 
-## Setup
-
-Making any changes to the documentation will require you to test your
-changes by building the doc in a way similar to how it is done for
-production. There are two possible setups you can use to do so:
-setting up your own staging repo and publication website, or building
-the docs on your machine. The following sections cover both options:
 
 
 
